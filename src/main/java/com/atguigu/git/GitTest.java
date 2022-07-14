@@ -11,6 +11,7 @@ public class GitTest {
 
         System.out.println("Here is my country!");
         System.out.println("push git");
+        System.out.println("pull git");
 
     }
 }
