@@ -10,5 +10,7 @@ public class GitTest {
         System.out.println("hello git");
 
         System.out.println("Here is my country!");
+        System.out.println("push git");
+
     }
 }
